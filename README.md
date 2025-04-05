@@ -2,6 +2,7 @@
 
 ## 📜 Deskripsi
 **ShadowLock** adalah program enkripsi folder yang dirancang untuk melindungi data Anda dengan aman. Program ini menggunakan teknologi enkripsi dan penyimpanan password hash di Google Drive untuk memastikan keamanan data Anda.
+
 ![Demo](videoujicoba.gif)
 
 ## 🌟 Fitur Utama
@@ -26,7 +27,7 @@
 
 1.  🛠️ Kloning Repositori:
     ```bash
-    git clone https://github.com/NamaPengguna/ShadowLock.git
+    git clone https://github.com/Alghifari888/ShadowLock-KeamananFolder.git
     ```
    Ganti `NamaPengguna` dengan nama pengguna GitHub Anda.
 
