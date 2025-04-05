@@ -2,6 +2,7 @@
 
 ## 📜 Deskripsi
 **ShadowLock** adalah program enkripsi folder yang dirancang untuk melindungi data Anda dengan aman. Program ini menggunakan teknologi enkripsi dan penyimpanan password hash di Google Drive untuk memastikan keamanan data Anda.
+![Demo](videoujicoba.gif)
 
 ## 🌟 Fitur Utama
 - **🔐 Enkripsi dan Dekripsi Folder**: Kunci dan buka folder dengan mudah menggunakan kata sandi.
