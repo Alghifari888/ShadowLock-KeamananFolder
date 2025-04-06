@@ -1,7 +1,9 @@
 # 🔒 ShadowLock V1 - Enkripsi Folder Aman
 
 ## ✨ Kutipan
+
 > *"Aku tidak berilmu; yang berilmu hanyalah DIA. Jika tampak ilmu dariku, itu hanyalah pantulan dari Cahaya-Nya."*  
+
 
 ## 📜 Deskripsi
 **ShadowLock** adalah program enkripsi folder yang dirancang untuk melindungi data Anda dengan aman. Program ini menggunakan teknologi enkripsi dan penyimpanan password hash di Google Drive untuk memastikan keamanan data Anda.
