@@ -111,5 +111,5 @@ Setelah membuat file berisi password hashed:
 6.Ubah pengaturan berbagi sesuai kebutuhan agar orang lain dapat mengaksesnya jika diperlukan.
 
 
-Selamat belajar dan semoga bermanfaat!
+**Selamat belajar dan semoga bermanfaat!**
 ✨ Kalau project ini membantu, boleh kasih ⭐ di GitHub ya!
