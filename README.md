@@ -111,8 +111,7 @@ Setelah membuat file berisi password hashed:
 6.Ubah pengaturan berbagi sesuai kebutuhan agar orang lain dapat mengaksesnya jika diperlukan.
 
 
-Dengan mengikuti langkah-langkah ini, Anda akan berhasil membuat program ShadowLock serta menyimpan password hashed secara aman! Jika ada pertanyaan lebih lanjut atau bantuan tambahan dibutuhkan silakan hubungi saya!
+Dengan mengikuti langkah-langkah di atas, Anda akan berhasil membangun program ShadowLock dan menyimpan password dengan metode hashing yang aman.
 
---- 
-
-Anda dapat menyalin isi README.md ini langsung ke dalam proyek Anda! Ini memberikan panduan lengkap bagi pengguna tentang cara menggunakan program serta langkah-langkah penting terkait keamanan data mereka!
+Jika ada pertanyaan lebih lanjut atau membutuhkan bantuan, jangan ragu untuk menghubungi saya:
+📧 xintiasoftwer93@gmail.com
